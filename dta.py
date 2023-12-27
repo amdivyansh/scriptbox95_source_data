@@ -14,6 +14,7 @@ bcyan="\033[1;36m"
 white="\033[0;37m"
 nc="\033[00m"
 version = str(3)
+getdata = 0
 con= f'\n{blue}Scriptbox'+'['+version+f']>>{white} '
 go = f"""
 
