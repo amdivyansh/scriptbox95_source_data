@@ -1,5 +1,5 @@
 
-#ver 6.0.0
+#ver 7.0.0
 #27-12-23
 
 black="\033[0;30m"
@@ -17,7 +17,7 @@ cyan="\033[0;36m"
 bcyan="\033[1;36m"
 white="\033[0;37m"
 nc="\033[00m"
-version = str("6.0.0")
+version = str("7.0.0")
 getdata = 0
 con= f'\n{blue}Scriptbox'+'['+version+f']>>{white} '
 go = f"""
