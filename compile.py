@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import time
 os.system("sudo apt install git")
