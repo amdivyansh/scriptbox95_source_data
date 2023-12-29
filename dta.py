@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#ver 7.1.0
+#ver 7.0.0
 #27-12-23
 
 black="\033[0;30m"
@@ -17,7 +17,7 @@ cyan="\033[0;36m"
 bcyan="\033[1;36m"
 white="\033[1;37;40m"
 nc="\033[00m"
-version = str("7.1.0")
+version = str("7.0.0")
 getdata = 0
 con_inf = f'{bgreen}[{bpurple}!{bgreen}] {white}'
 con_pls = f'{bgreen}[{bpurple}+{bgreen}] {white}'
